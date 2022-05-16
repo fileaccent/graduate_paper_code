@@ -1,0 +1,4 @@
+,n,p,,gi_c_gate_num,ro_c_gate_num,gi_opt3_c_gate_num,gi_c_fidelity,ro_c_fidelity,gi_opt3_c_fidelity
+0,2,3,order,84,81,81,0.49455,0.50335,0.579
+1,2,3,random,84,90,114,0.44685,0.44515,0.4341
+2,2,3,EFC_opt,81,81,81,0.522,0.52245,0.52615

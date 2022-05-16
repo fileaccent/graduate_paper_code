@@ -1,0 +1,5 @@
+,n,p,,gi_c_gate_num,ro_c_gate_num,gi_opt3_c_gate_num,gi_c_fidelity,ro_c_fidelity,gi_opt3_c_fidelity
+0,2,3,sabre,180,192,204,0.31845,0.3438,0.3247
+1,2,3,HA,108,108,111,0.4063,0.38775,0.38305
+2,2,3,MCPE,81,81,81,0.39315,0.38785,0.3918
+3,2,3,MCPE_opt,81,81,81,0.5228,0.5258,0.5272
